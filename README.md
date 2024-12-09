@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system.
-Created by swejal yelne
+Created by Swejal Yelne.
